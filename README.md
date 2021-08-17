@@ -2,7 +2,7 @@
 
 A Terraform module to create an Amazon Web Services (AWS) EC2 instance.
 
-## Usage
+## Usage ###
 ```hcl
 
 module "my-sg" {
